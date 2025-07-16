@@ -32,7 +32,7 @@ Backend functions and database logic handle analytics and trending updates. Full
 - 📈 User search queries are logged and metrics calculated by Appwrite functions.
 - 🔄 Trending list is updated dynamically as data from TMDb changes.
 
-#📦 Setup & Installation
+# 📦 Setup & Installation
 - 1️⃣ Install dependencies:
 npm install
 
